@@ -10,4 +10,13 @@ category: Java
 link: https://github.com/lisalisadong/cs-046
 description: <ul><li>Developed heuristics for winning “Connect Four” game.</li><li>Victory rate is 94.4% ~ 100% in 4000 games against multiple agents.</li></ul>
 
+img0: blank.png
+img1: blank.png
+img2: blank.png
+img3: blank.png
+img4: blank.png
+
+demo:
+demo_link: 
+
 ---
