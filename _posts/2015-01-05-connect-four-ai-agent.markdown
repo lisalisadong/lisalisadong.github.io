@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2015-01-05
+img: game.png
+alt: image-alt
+project-date: Jan 2015
+source: GitHub
+category: Java
+link: https://github.com/lisalisadong/cs-046
+description: <ul><li>Developed heuristics for winning “Connect Four” game.</li><li>Victory rate is 94.4% ~ 100% in 4000 games against multiple agents.</li></ul>
+
+---

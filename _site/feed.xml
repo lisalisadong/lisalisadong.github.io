@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingxiao Dong</title>
+    <description>Personal site of Qingxiao Dong, MCIT student at Penn.</description>
+    <link>https://lisalisadong.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 09 Jan 2016 14:20:32 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 14:20:32 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Instanote &amp;#45 Pennapps xii hackathon</title>
+        <description>&lt;p&gt;&lt;em&gt;Mobile Notetaking App based on OCR.&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Allows users to take notes without typing. Just swipe-select text in images and the app will transform it to a plaintext note.&lt;/li&gt;&lt;li&gt;Five activities enabling users to sort, add, edit, favorite, delete, and share notes. Integrated with Google maps to associate locations with notes.&lt;/li&gt;&lt;li&gt;Backend&amp;#58 Applied and customized &lt;a href=&quot;http://gaut.am/making-an-ocr-android-app-using-tesseract/&quot; target=&quot;_blank&quot;&gt;Tess-Two&lt;/a&gt; open source OCR library. Integrated &lt;a href=&quot;https://www.sqlite.org/&quot; target=&quot;_blank&quot;&gt;SQLite&lt;/a&gt; database to store notes and other metadata.&lt;/li&gt;&lt;li&gt;Frontend&amp;#58 Applied Android &lt;a href=&quot;https://www.google.com/design/spec/material-design/introduction.html#&quot; target=&quot;_blank&quot;&gt;material design&lt;/a&gt;. Implemented UI elements such as floating action buttons, data/time picker, and swipe-to-delete.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/android/2015/01/08/InstaNote-&%2345-PennApps%20XII%20Hackathon/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/android/2015/01/08/InstaNote-&%2345-PennApps%20XII%20Hackathon/</guid>
+        
+        
+        <category>android</category>
+        
+      </item>
+    
+      <item>
+        <title>Movie Fans Social Network</title>
+        <description>&lt;p&gt;&lt;em&gt;Movie-themed SNS based on TMDB data.&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Built with Node.js framework. Integrated with &lt;a href=&quot;https://www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt; and &lt;a href=&quot;https://www.mongodb.org/&quot; target=&quot;_blank&quot;&gt;MongoDB&lt;/a&gt; at the backend and &lt;a href=&quot;http://getbootstrap.com/&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt; at the frontend.&lt;/li&gt;&lt;li&gt;Users can mark, rate, or review movies. Users can like movie stars and directors. Users can follow each other, and share activities.&lt;/li&gt;&lt;li&gt;Integrated &lt;a href=&quot;https://developers.facebook.com/&quot; target=&quot;_blank&quot;&gt;Facebook API&lt;/a&gt; to allow logins with both emails and Facebook. Fuzzy search of website contents. Customized recommendations.&lt;/li&gt;&lt;li&gt;Deployed on cloud services (&lt;a href=&quot;https://aws.amazon.com/rds/&quot; target=&quot;_blank&quot;&gt;AWS RDS&lt;/a&gt; + &lt;a href=&quot;https://aws.amazon.com/ec2/&quot; target=&quot;_blank&quot;&gt;AWS EC2&lt;/a&gt; + &lt;a href=&quot;https://mongolab.com/&quot; target=&quot;_blank&quot;&gt;MongoLab&lt;/a&gt;).&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Wed, 07 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/node.js/2015/01/07/Movie-Fans-Social-Network/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/node.js/2015/01/07/Movie-Fans-Social-Network/</guid>
+        
+        
+        <category>node.js</category>
+        
+      </item>
+    
+      <item>
+        <title>Funds With Friends App</title>
+        <description>&lt;p&gt;&lt;em&gt;Group-friendly Mobile Payment App.&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Users can add/delete/edit friend groups, and pay/charge group members.&lt;/li&gt;&lt;li&gt;Integrated with &lt;a href=&quot;https://developer.venmo.com/&quot; target=&quot;_blank&quot;&gt;Venmo API&lt;/a&gt; to import friends and process payments.&lt;/li&gt;&lt;li&gt;Used &lt;a href=&quot;https://www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt; and &lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt; as backend for storing and synchronizing groups and transactions between different users.&lt;/li&gt;&lt;li&gt;Worked with project manager to build user stories, detect code smells, refactor code, fix bugs, and implement new features.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 06 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/android/2015/01/06/Funds-with-Friends-App/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/android/2015/01/06/Funds-with-Friends-App/</guid>
+        
+        
+        <category>android</category>
+        
+      </item>
+    
+      <item>
+        <title>Connect Four Ai Agent</title>
+        <description>&lt;ul&gt;&lt;li&gt;Developed heuristics for winning “Connect Four” game.&lt;/li&gt;&lt;li&gt;Victory rate is 94.4% ~ 100% in 4000 games against multiple agents.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 05 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/java/2015/01/05/connect-four-ai-agent/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/java/2015/01/05/connect-four-ai-agent/</guid>
+        
+        
+        <category>java</category>
+        
+      </item>
+    
+  </channel>
+</rss>
