@@ -17,6 +17,6 @@ img3: calmly3.png
 img4: calmly4.png
 
 demo: Download APK
-demo_link: file/calmly-debug.apk
+demo_link: file/calmly.apk
 
 ---
