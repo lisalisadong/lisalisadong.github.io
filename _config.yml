@@ -31,7 +31,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Qingxiao Dong
+  copyright1: Dr. Henry Jekyll
+  copyright2: Qingxiao Dong
   location: Location
   social: Connect
   credits: Credits
