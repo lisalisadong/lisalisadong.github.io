@@ -16,7 +16,6 @@ img2: blank.png
 img3: blank.png
 img4: blank.png
 
-demo:
-demo_link: 
+demo: NA
 
 ---
