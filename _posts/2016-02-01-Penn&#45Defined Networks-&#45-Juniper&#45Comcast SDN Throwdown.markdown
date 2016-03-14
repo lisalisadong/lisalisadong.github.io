@@ -16,6 +16,6 @@ img2: pdn2.png
 img3: pdn3.png
 img4: pdn4.png
 
-demo: <a href="#">PPT</a>, <a href="https://www.youtube.com/playlist?list=PLfttmASDXETFbFo94NzOnkJPM-fMtnrcO" target="_blank">Live Demos on YouTube</a>
+demo: <a href="file/sdn-throwdown.pptx">PPT</a>, <a href="https://www.youtube.com/playlist?list=PLfttmASDXETFbFo94NzOnkJPM-fMtnrcO" target="_blank">Live Demos on YouTube</a>
 
 ---
